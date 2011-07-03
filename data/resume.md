@@ -65,24 +65,29 @@ Developed iPad version of ici. Developed ici Magazine for the iPad. ici Magazine
 * * * * * * * * * * * * * * * * * *
 # Professional Activities  
 
+###Founder Labs NYC  
+_May 2011 - June 2011_  
+
+Served as CTO for team __Authy__, building an innovative two-factor authentication application, spanning Android, Mac, and Linux platforms and employing Bluetooth connectivity. 
+
+The program culminated in a pitch night in front of venture capital luminaries including Fred Wilson. My dynamic presentation carried us to a __second place__ finish.
+
 ###Lean Startup Machine NYC  
 _April 2011_  
 
-Led team __Dating CRM__ to a third place finish with an Android application that helps active daters to track the romantic partners in their lives. Actively interviewed over 30 users and "parallel daters" and put their feedback into the product.
-
-http://www.datingcrm.com
+Led team [__Dating CRM__](http://www.datingcrm.com) to a __third place__ finish with an Android application that helps active daters to track the romantic partners in their lives. Actively interviewed over 30 users and "parallel daters" and put their feedback into the product.
 
 ###Startup Bus, South by Southwest  
 _March 2011_  
 
-Designed and developed __Lemonade Stand__ for Android while on a moving bus from New York City to Austin, TX. My efforts helped push the team to reach the semifinals, finishing in the top 12 of 38 teams.
+Developed [__Lemonade Stand__](http://lmnd.st) for Android while on a moving bus from New York City to Austin, TX. Lemonade Stand is a mobile-optimized marketplace, akin to eBay or Craigslist. My efforts helped push the team to reach the semifinals, finishing in the __top 12__ of 38 teams.
 
 Lemonade Stand was later celebrated as an impressive technical achievement at New York Tech Meetup's [Hack of the Month](http://youtu.be/DC-AiiclmV0) segment.
 
 ###eBay Hackathon, South by Southwest  
 _March 2011_  
 
-Won 3rd place and $500 for enabling Lemonade Stand to cross-post listings to eBay.
+Won __3rd place__ and $500 for enabling Lemonade Stand to cross-post listings to eBay.
 
 ###[New Jersey Mobile Meetup](http://meetup.com/njmobile/)  
 _May 2010 - May 2011_  
@@ -96,12 +101,12 @@ Developed curriculum and conducted __iPhone and Android programming seminars__ a
 ###Startup Weekend NYC - Arts & Tech
 _November 2010_  
 
-Won second place People's Choice and fourth place overall for __Artmented__. Artmented is an augmented reality Android application for drawing and viewing virtual graffiti overlaid on actual locations. Directed a seven-man team consisting of developers, designers, and marketing specialists over a weekend.
+Won second place People's Choice and __fourth place__ overall for __Artmented__. Artmented is an augmented reality Android application for drawing and viewing virtual graffiti overlaid on actual locations. Directed a seven-man team consisting of developers, designers, and marketing specialists over a weekend.
 
 ###TechCrunch Disrupt Hackathon, San Francisco  
 _September 2010_  
 
-Won the "Creepiest Hack" award for __D8Coach__ ("date coach"), finishing in the top five from a field of eighty-six teams. D8Coach is an Android-based real-time dating advice application that utilizes the collective experience of users to improve dating techniques. 
+Won the "Creepiest Hack" award for __D8Coach__ ("date coach"), finishing in the __top five__ from a field of eighty-six teams. D8Coach is an Android-based real-time dating advice application that utilizes the collective experience of users to improve dating techniques. 
 
 [Personal postmortem](http://blog.davidykay.com/d8coach-hackaton-wrap-up).  [Press Coverage](http://techcrunch.com/2010/09/26/techcrunch-disrupt-hackathon-winner/).  
 
