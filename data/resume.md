@@ -4,11 +4,9 @@
 
 
 ## Summary
-"...the best iPhone developer in New York." - _[Yan Tsirklin](http://www.linkedin.com/in/yantsirklin), Head of BD at Textbroker International_  
+"...[best iOS developer around.](http://twitter.com/#!/ytsirklin/status/132246466440863744)" - _[Yan Tsirklin](http://www.linkedin.com/in/yantsirklin), Head of BD at Textbroker International_  
 
 "...definitely the most talented developer I've worked with." - _[Christopher Kennedy](http://kennedysgarage.com/), Lead UX Strategist at M. Shanken Communications_  
-
-"He's like a magician." - _[Peter Verrillo](http://www.linkedin.com/in/peterverrillo), CEO of Enhatch Orthopedics_  
 
 * * * * * * * * * * * * * * * * * *
 
